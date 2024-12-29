@@ -1,0 +1,11 @@
+{
+	"pnpm": {
+		"onlyBuiltDependencies": [
+			"electron"
+		]
+	},
+	"dependencies": {
+		"electron": "^33.2.1"
+	},
+	"packageManager": "pnpm@10.0.0-rc.1+sha512.bc9f6703c565ba54f61d3f22cb6d4527b7039d9a59142e4dec81c3a4be844e441c1e5687cd2f7d376d13f09860e515393722c1387716472e0bcc273ce5e6b73b"
+}
